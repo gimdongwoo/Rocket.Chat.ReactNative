@@ -24,6 +24,7 @@ project.xcworkspace
 *.mobileprovision
 ios/Pods/
 /vendor/bundle/
+.xcode.env*
 
 # Android/IntelliJ
 #
@@ -70,3 +71,13 @@ e2e/e2e_account.ts
 junit.xml
 
 *.p8
+.expo/
+
+# yarn
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions

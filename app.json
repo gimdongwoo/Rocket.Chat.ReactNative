@@ -1,5 +1,11 @@
 {
-	"name": "RocketChatRN",
-	"share": "ShareRocketChatRN",
-	"displayName": "RocketChatRN"
+  "name": "RocketChatRN",
+  "share": "ShareRocketChatRN",
+  "displayName": "RocketChatRN",
+  "android": {
+    "package": "com.gimdongwoo.rocketchatrn"
+  },
+  "ios": {
+    "bundleIdentifier": "com.gimdongwoo.rocketchatrn"
+  }
 }
